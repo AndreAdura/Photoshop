@@ -2,6 +2,9 @@
 Academic Records
 
 
+Lesson 1 - RGB / CMYK and resolution topics
+Lesson 2 - Image Treatment/Gamma & Colour Correction
+
 -SHORTCUTS
 
 X - swap brush color / erase color
@@ -11,10 +14,13 @@ W - Magic Selector
 Q - Quick PreView - After Select
 Shift - Aditor for Tools
 Alt - Subtractor for Tools
+
+
 SELECTIONS
 M -Marquee Tool
 L -Laco Tool       }Holding Shift(Ad a selection) Holding Alt(Subtract a Selection)
-W -Wand Tools
+W -Wand Tools       With Laco, press Delete top Undo the dots
+Ctrl+Alt+R - Refine Edges (General Feather 0.5px)
 
 Ctrl + "+" - Zoom
 Ctrl + 0 - Fit in the Window
