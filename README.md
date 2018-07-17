@@ -71,5 +71,18 @@ Hold Shift to keep the proportion
 
 ------------------------------------------------------------------------------
 
+Shadowing
 
+Shading
+
+Select the object shape;(Click the Tumbnail of the Mask you used the cut the Object)
+Crete a Layer(Put above the object your shadowing), activate the Multiply Filter on layers panel;
+Select the Gradient Tool "G" Paint a Gradient From Transparent to Black twoards to the light source 
+
+Cast Shadow
+
+Create a layer(below the object), select the Multiply Filter, paint a shadow below de object, set the Opacity to look like a real shadow;
+Give the final details with soft eraser;
+
+-------------------------------------------------------------------------------------------------------------------------------
 
