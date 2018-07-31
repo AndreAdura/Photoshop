@@ -6,6 +6,7 @@ Lesson 1 - RGB / CMYK and resolution topics
 Lesson 2 - Image Treatment/Gamma & Colour Correction
 Lesson 3 - Shadows
 Lesson 4 - Layer Styles / Typography
+Lesson 5 - Brushes / 
 
 -SHORTCUTS
 
