@@ -6,11 +6,12 @@ Lesson 1 - RGB / CMYK and resolution topics
 Lesson 2 - Image Treatment/Gamma & Colour Correction
 Lesson 3 - Shadows
 Lesson 4 - Layer Styles / Typography
-Lesson 5 - Brushes / 
+Lesson 5 - Brushes / Distortions / Painting
 
 -SHORTCUTS
 
 X - swap brush color / erase color
+C - Crop Tool
 D - Default color
 V - Move Tool
 W - Magic Selector
@@ -88,4 +89,26 @@ Create a layer(below the object), select the Multiply Filter, paint a shadow bel
 Give the final details with soft eraser;
 
 -------------------------------------------------------------------------------------------------------------------------------
+DISTORTION
+Text Distortion
 
+Type > Warp Text
+
+-----------------------------------------------------------------------------------------------------------------------------------
+REPLACE COLOR / COLOR SHIFT
+
+Image > Adjust > Replace Color
+
+--------------------------------------------------------------------------------------------------------------------------------------
+PAINTING
+
+-Create a New Group 
+Create a Layer Multiply on top of your Original Picture
+With a solid Brush paint the character with the base color
+
+- In your second layer(Where you painted)
+Draw The Highlight parts with the lasso tool, delete the selected part and apply a Feather in the Refine Menu(Ctrl+Alt+R - Refine Edges)
+
+-Create a new layer called Shade(Using Multuply effect) and start paint with the next darker color of the pallet in the parts wich are in the oposit side of the light source. 
+
+-Create a new layer called Shade 2(Using Multuply effect) and start paint with the most dark color of the pallet in the parts wich are in the oposit side of the light source. 
