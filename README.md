@@ -1,3 +1,19 @@
+F6
+F7
+G
+D - Default Color
+Invert Selection
+Deselection
+Ctrl + K
+Marquee
+Shift - to keep the symetri while resizing
+Ctrl + ; - turn off the Guides
+Ctrl + R - Rulers
+
+
+
+
+
 # Photoshop
 Academic Records
 
