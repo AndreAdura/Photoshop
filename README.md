@@ -7,6 +7,7 @@ Lesson 2 - Image Treatment/Gamma & Colour Correction
 Lesson 3 - Shadows
 Lesson 4 - Layer Styles / Typography
 Lesson 5 - Brushes / Distortions / Painting
+Lesson 6 - Filters / Cast Shadow
 
 -SHORTCUTS
 
@@ -112,3 +113,40 @@ Draw The Highlight parts with the lasso tool, delete the selected part and apply
 -Create a new layer called Shade(Using Multuply effect) and start paint with the next darker color of the pallet in the parts wich are in the oposit side of the light source. 
 
 -Create a new layer called Shade 2(Using Multuply effect) and start paint with the most dark color of the pallet in the parts wich are in the oposit side of the light source. 
+
+---------------------------------------------------------------------------------------------------------------------------------------
+FILTERS
+
+Turn a real image in Ilustration
+
+
+
+Filter > Filterb Gallery
+
+Artistic > Dry Brush
+Brush size 10
+Brush Detail 
+Texture 3
+Apply a Blend Mode in this layer (Like Multiply or Darken)
+
+
+
+Filter > Filterb Gallery
+Brush Strokes> Sumi-e
+stroke width 3
+stroke pressure 0
+contrast 0
+Apply a Blend Mode in this layer (Like Multiply or Darken)
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Shadow
+Copy the layer of your image then go to Image> Adjust > Levels - Then turn the image to Black
+edit > transform > distortion
+Now turn your black image down and create a perpective 
+
+
+
+
+
