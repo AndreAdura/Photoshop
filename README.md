@@ -1,14 +1,17 @@
-F6
-F7
-G
+F6 - Color
+F7 - Layers
+G - Gradient
+B - Brush
+E - Eraser
 D - Default Color
-Invert Selection
-Deselection
-Ctrl + K
-Marquee
-Shift - to keep the symetri while resizing
+Invert Selection - Ctrl+Shift+I
+Deselection - Ctrl D
+Ctrl + K - preferences
+Marquee - M
+Shift - to keep the symmetry while resizing
 Ctrl + ; - turn off the Guides
 Ctrl + R - Rulers
+Ctrl + U - Hue and Saturation
 
 
 
@@ -35,6 +38,10 @@ W - Magic Selector
 Q - Quick PreView - After Select
 Shift - Aditor for Tools
 Alt - Subtractor for Tools
+J - Healing Brush
+S - Clone Stamp
+B - Brush
+E - Eraser
 
 Ctrl + "+" - Zoom
 Ctrl + 0 - Fit in the Window
@@ -161,6 +168,33 @@ Shadow
 Copy the layer of your image then go to Image> Adjust > Levels - Then turn the image to Black
 edit > transform > distortion
 Now turn your black image down and create a perpective 
+
+------------------------------------------------------------------------------------------------------
+
+GRAY SCALE - BLACK/WHITE
+Image>Adjustment>Channel Mixer
+
+Preset> Choose a filter that have the predominant color of the photo and hit OK
+-------------------------------------------------------------------------------------------------------------
+
+Red Eye Remove
+
+J - Healing Tool > Red Eye
+
+Click in the middle of the Eye
+-------------------------------------------------------------------------------------------------------------------------
+
+FOCUS 
+
+Filter> Sharpen>Unsharp Mak - Amount 450% /  Radius 1 / Threshold 14
+-----------------------------------------------------------------------------------------------------------------------------
+REMOVE NOISE FROM BACKGROUND
+
+Select the Background
+Filter> Dust & Scratch > Radius 10 / Threshold 18
+-------------------------------------------------------------------------------------------------------------------------------
+
+
 
 
 
