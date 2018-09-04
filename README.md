@@ -194,8 +194,35 @@ Select the Background
 Filter> Dust & Scratch > Radius 10 / Threshold 18
 -------------------------------------------------------------------------------------------------------------------------------
 
+increase canvas size
+Image > canvas size
 
+------------------------------------------------------------------------------------------------------------------------------
 
+DISTORSION / PERSPECTIVE
+
+EDIT > TRANSFORM > DISTORT - Give some perspective
+
+Edit > transform > warp - you can mold the shape with a mesh
+
+--------------------------------------------------------------------------------------------------------------------------
+ACTTIONS
+
+Alt + F9 - Actions
+New Folder
+New File
+Stop when the Actions is over.
+
+FILE > AUTOMATE > BATCH :
+SET: Select your Folder 
+Action: Select your file 
+Choose: Select the folder with the Files you want to process through your action recorded
+
+------------------------------------------------------------------------------------------------------------------------------------
+ANIMATION
+
+WINDOW > TIMELINE 
+FRAME ANIMATION(At Timeline)
 
 
 
